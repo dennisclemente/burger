@@ -1,0 +1,13 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: rgb(202, 167, 69);
+	font-family: "Arial",sans-serif;
+	font-size: 16px;
+	color: rgb(131, 95, 95);
+}
+
+.jumbotron {
+	background-color: #f6f6f6;
+}
